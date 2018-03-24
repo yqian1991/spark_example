@@ -1,0 +1,7 @@
+SQLAlchemy==0.8.2
+PyMySQL
+peewee
+logging
+numpy==1.11.1
+pandas==0.18.1
+matplotlib

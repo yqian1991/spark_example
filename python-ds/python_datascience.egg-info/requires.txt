@@ -1,0 +1,6 @@
+SQLAlchemy==0.8.2
+PyMySQL
+peewee
+logging
+panda
+numpy
